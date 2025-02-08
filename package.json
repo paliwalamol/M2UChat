@@ -1,5 +1,5 @@
 {
-  "name": "jerry-chat",
+  "name": "M2UChat",
   "version": "1.0.0",
   "description": "it is basic chat module.",
   "main": "server.js",
