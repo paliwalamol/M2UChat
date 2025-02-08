@@ -50,7 +50,7 @@ const server = app.listen(PORT, () => {
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    // origin: "https://jerrychat.onrender.com/", // frontend connection
+    // origin: "https://M2UChat.onrender.com/", // frontend connection
     origin: "http://127.0.0.1:3000", // localHost
   },
 });
